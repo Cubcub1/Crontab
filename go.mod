@@ -1,4 +1,4 @@
-module github.com/hubogle/Crontab
+module github.com/Cubcub1/Crontab
 
 go 1.18
 
